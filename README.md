@@ -1,16 +1,33 @@
-## Hi there 👋
+# Bonjour, je suis Mounia Zouak
 
-<!--
-**mouniazouak/mouniazouak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante ingénieure en 5e année, spécialisée en **Big Data** et **Intelligence Artificielle**.
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je m’intéresse au développement de solutions intelligentes combinant traitement des données, Machine Learning, Deep Learning, NLP, RAG et Computer Vision.
+
+Je travaille principalement avec Python et des outils de développement, de données et d’intelligence artificielle.
+
+## Technologies
+
+- **IA :** Python, PyTorch, TensorFlow, Scikit-Learn, Machine Learning, Deep Learning, NLP, RAG, Computer Vision
+- **Données :** Pandas, SQL, MongoDB, Kafka, Spark, Hadoop, HDFS, Hive, Talend, Power BI
+- **Développement :** FastAPI, Flask, API REST, PHP, Laravel, JavaScript
+- **Outils :** Docker, Git, Visual Studio Code, Matplotlib, Seaborn
+
+## Domaines d’intérêt
+
+- Développement de solutions basées sur l’intelligence artificielle
+- Traitement et analyse des données
+- Systèmes RAG et recherche sémantique
+- Applications de Computer Vision
+- Architectures Big Data
+- Automatisation et développement d’APIs
+
+## Portfolio
+
+[Voir mon portfolio](https://courageous-belekoy-135a05.netlify.app/)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mounia-zouak-7206311a8/)
